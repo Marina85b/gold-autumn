@@ -8,3 +8,4 @@
 Мне нравится решать задачи по Git.
 
 
+![IMG_20181014_ddf152449](https://user-images.githubusercontent.com/113854195/196048752-d022504c-4d03-4995-acc4-6bf44277f980.jpg)
